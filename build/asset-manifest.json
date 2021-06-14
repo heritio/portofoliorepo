@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.070b4880.chunk.css",
+    "main.js": "/static/js/main.216bf4dc.chunk.js",
+    "main.js.map": "/static/js/main.216bf4dc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c64f1fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c64f1fa.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.cd7268bc.chunk.js": "/static/js/2.cd7268bc.chunk.js",
+    "static/js/2.cd7268bc.chunk.js.map": "/static/js/2.cd7268bc.chunk.js.map",
+    "static/js/3.5dc2b7db.chunk.js": "/static/js/3.5dc2b7db.chunk.js",
+    "static/js/3.5dc2b7db.chunk.js.map": "/static/js/3.5dc2b7db.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.070b4880.chunk.css.map": "/static/css/main.070b4880.chunk.css.map",
+    "static/js/2.cd7268bc.chunk.js.LICENSE.txt": "/static/js/2.cd7268bc.chunk.js.LICENSE.txt",
+    "static/media/cinematicketsystem.21d99906.png": "/static/media/cinematicketsystem.21d99906.png",
+    "static/media/ecom.d2f3d3a6.png": "/static/media/ecom.d2f3d3a6.png",
+    "static/media/formvalidator.d392cc02.png": "/static/media/formvalidator.d392cc02.png",
+    "static/media/kalkulator.0fd23769.png": "/static/media/kalkulator.0fd23769.png",
+    "static/media/landingpage.9f2121fa.png": "/static/media/landingpage.9f2121fa.png",
+    "static/media/libraryapp.ff00bf98.png": "/static/media/libraryapp.ff00bf98.png",
+    "static/media/natureslandingpage.d61df16d.png": "/static/media/natureslandingpage.d61df16d.png",
+    "static/media/piggame.25c1ed66.png": "/static/media/piggame.25c1ed66.png",
+    "static/media/pizzapic.ae75dce6.png": "/static/media/pizzapic.ae75dce6.png",
+    "static/media/realestatefrontpagedesign.c8a0d645.png": "/static/media/realestatefrontpagedesign.c8a0d645.png",
+    "static/media/storepic.7143ddd1.png": "/static/media/storepic.7143ddd1.png",
+    "static/media/surveyform.f26dcefc.png": "/static/media/surveyform.f26dcefc.png",
+    "static/media/technicalpage.2fb8af93.png": "/static/media/technicalpage.2fb8af93.png",
+    "static/media/tourismfrontpagedesign.5aa0e56b.png": "/static/media/tourismfrontpagedesign.5aa0e56b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c64f1fa.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.cd7268bc.chunk.js",
+    "static/css/main.070b4880.chunk.css",
+    "static/js/main.216bf4dc.chunk.js"
+  ]
+}
